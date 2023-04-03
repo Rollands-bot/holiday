@@ -1,0 +1,97 @@
+body {
+    background-color: grey;
+    width: 2000px 2000px;
+}
+
+.warnai {
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.registration {
+    display: flex;
+    padding-left: 250px;
+}
+
+/* nama */
+.formlist {
+    display: flex;
+}
+
+.formlist label {
+    width: 500px 100px;
+    padding-right: 50px;
+}
+
+/* tgl lahir */
+.formlist-a {
+    display: flex;
+    padding-top: 10px;
+}
+
+.formlist-a label {
+    padding-right: 18px;
+    width: 70px;
+    align-items: center;
+}
+
+/* alamat */
+.formlist-b {
+    display: flex;
+    padding-top: 10px;
+}
+
+.formlist-b label {
+    padding-right: 18px;
+    width: 70px;
+    align-items: center;
+}
+
+/* kota */
+.kota {
+    display: flex;
+    padding-top: 10px;
+}
+
+.kota label {
+    padding-right: 18px;
+    width: 70px;
+    align-items: center;
+}
+
+/* pekerjaan */
+
+.pekerjaan {
+    display: flex;
+    padding-top: 10px;
+}
+
+.pekerjaan label {
+    padding-right: 18px;
+    width: 70px;
+    align-items: center;
+}
+
+/* hobby */
+
+.hobby {
+    display: flex;
+    padding-top: 10px;
+}
+
+.hobby label {
+    padding-right: 18px;
+    width: 70px;
+    align-items: center;
+}
+
+/* Button */
+
+.button-kirim {
+    display: flex;
+    padding-top: 25px;
+    padding-left: 200px;
+    width: 70px;
+    align-items: center;
+}
